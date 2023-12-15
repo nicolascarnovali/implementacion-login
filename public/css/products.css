@@ -1,0 +1,45 @@
+body {
+  background-color: rgb(53, 54, 58);
+}
+
+.card {
+  border: none;
+  border-radius: 13px;
+  transition: transform 0.3s;
+  background: linear-gradient(135deg, #000000, #616161);
+  color: #fff;
+}
+
+.card-header {
+  color: #fff;
+  border: none;
+
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+label {
+  color: white;
+}
+
+.img{
+  height: 17vh;
+  border: #000000;
+  background-color: black !important;
+  padding: 0.2rem !important;
+}
+
+.bienv{
+  color: white;
+}
+
